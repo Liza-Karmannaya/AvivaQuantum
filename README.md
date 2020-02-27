@@ -28,5 +28,7 @@ Explain your methods and solution, but make sure to do so in a way that is clear
 
 Slides should be very visual with powerful, relevant images. Ensure any text is clear and readable from a distance. If you need text prompts to remind you what to say, don't put this as text on the slides, but keep them in notes not visible to the audience. 
 
+**Note that you should limit your presentation to 5 minutes.**
+
 Good luck!
 Aviva and the CUDSS
