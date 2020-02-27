@@ -23,6 +23,8 @@ The audience will be very mixed: from undergraduates to senior management staff 
 Tell a story. Structure the presentation with an introduction, development and conclusion.  
 
 Try to ensure you address what you see as the key problem and your solution to it, putting yourself in the shoes of a data scientist working for Aviva.
+Explain your methods and solution, but make sure to do so in a way that is clear, simple, and as accessible as possible.
+
 
 Slides should be very visual with powerful, relevant images. Ensure any text is clear and readable from a distance. If you need text prompts to remind you what to say, don't put this as text on the slides, but keep them in notes not visible to the audience. 
 
