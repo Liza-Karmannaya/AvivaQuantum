@@ -22,7 +22,7 @@ Here some hints on how to best go about the presentation for the final day:
 The audience will be very mixed: from undergraduates to senior management staff from Aviva. Therefore aim to explain your work at a high level and don't assume any detailed knowledge of the algorithms or technologies used. 
 Tell a story. Structure the presentation with an introduction, development and conclusion.  
 
-Try to ensure you address what you see as the key business problem and your solution to it, putting yourself in the shoes of a data scientist working for Aviva.
+Try to ensure you address what you see as the key problem and your solution to it, putting yourself in the shoes of a data scientist working for Aviva.
 
 Slides should be very visual with powerful, relevant images. Ensure any text is clear and readable from a distance. If you need text prompts to remind you what to say, don't put this as text on the slides, but keep them in notes not visible to the audience. 
 
